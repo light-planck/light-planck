@@ -36,14 +36,18 @@ ___
     <img src="https://img.shields.io/badge/-docker-2496ED.svg?logo=docker&style=style=for-the-badge&logoColor=white" />
   </a>
 
-  <!-- <a>
-    <img src="" />
-  </a> -->
+  <a>
+    <img src="https://img.shields.io/badge/-Notion-000000.svg?logo=Notion&style==style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=Slack&style==style=for-the-badge&logoColor=white" />
+</a>
 </p>
 
 ___
 
-### Socials
+### Links
 
 <p align="center">
   <a href="https://twitter.com/light_planck" target="_blank">
@@ -54,3 +58,7 @@ ___
     <img src="https://img.shields.io/badge/AtCoder-000000.svg?&style=for-the-badge&&logoColor=white" />
   </a>
 </p>
+
+<!-- <a>
+    <img src="" />
+</a> -->
