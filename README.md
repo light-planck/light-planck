@@ -19,7 +19,9 @@ ___
   <a>
     <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style==style=for-the-badge&logoColor=white" />
   </a>
+</p>
 
+<p align="center">
   <a>
     <img src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=HTML5&style==style=for-the-badge&logoColor=white" />
   </a>
@@ -36,7 +38,9 @@ ___
   <a>
     <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=Node.js&style==style=for-the-badge&logoColor=white" />
   </a>
+</p>
 
+<p align="center">
   <a>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=TypeScript&style==style=for-the-badge&logoColor=white" />
   </a>
@@ -70,7 +74,9 @@ ___
   <a>
     <img src="https://img.shields.io/badge/-docker-2496ED.svg?logo=docker&style=style=for-the-badge&logoColor=white" />
   </a>
+</p>
 
+<p align="center">
   <a>
     <img src="https://img.shields.io/badge/-vscode-007ACC.svg?logo=visualstudiocode&style==style=for-the-badge&logoColor=white" />
   </a>
