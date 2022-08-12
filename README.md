@@ -1,6 +1,7 @@
 ### Hey guys! 👋
 
-i'm light.
+I'm light.  
+I'd just be the catcher in the rye.
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-planck&layout=compact&show_icons=true&theme=tokyonight" />
@@ -21,7 +22,36 @@ ___
   </a>
 
   <a>
+    <img src="https://img.shields.io/badge/-HTML-E34F26.svg?logo=HTML5&style==style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/-CSS-1572B6.svg?logo=CSS3&style==style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=JavaScript&style==style=for-the-badge&logoColor=white" />
+  </a>
+
+
+  <a>
     <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=Node.js&style==style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=TypeScript&style==style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=React&style==style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=Next.js&style==style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/-Express-000000.svg?logo=Express&style==style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
@@ -31,11 +61,19 @@ ___
 
 <p align="center">
   <a>
-    <img src="https://img.shields.io/badge/-vscode-007ACC.svg?logo=visualstudiocode&style==style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=Git&style==style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=Ubuntu&style==style=for-the-badge&logoColor=white" />
   </a>
 
   <a>
     <img src="https://img.shields.io/badge/-docker-2496ED.svg?logo=docker&style=style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/-vscode-007ACC.svg?logo=visualstudiocode&style==style=for-the-badge&logoColor=white" />
   </a>
 
   <a>
@@ -44,7 +82,7 @@ ___
 
   <a>
     <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=Slack&style==style=for-the-badge&logoColor=white" />
-</a>
+  </a>
 </p>
 
 ___
@@ -60,7 +98,3 @@ ___
     <img src="https://img.shields.io/badge/AtCoder-000000.svg?&style=for-the-badge&&logoColor=white" />
   </a>
 </p>
-
-<!-- <a>
-    <img src="" />
-</a> -->
