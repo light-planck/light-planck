@@ -94,6 +94,10 @@ ___
   </a>
 
   <a href="https://atcoder.jp/users/planck16" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-000000.svg?&style=for-the-badge&&logoColor=white" />
+    <img src="https://img.shields.io/badge/AtCoder-000000.svg?&style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://zenn.dev/light_planck" target="_blank">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" />
   </a>
 </p>
