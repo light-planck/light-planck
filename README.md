@@ -1,7 +1,6 @@
 ### Hey guys! 👋
 
 I'm light.  
-I'd just be the catcher in the rye.
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-planck&layout=compact&show_icons=true&theme=tokyonight" />
