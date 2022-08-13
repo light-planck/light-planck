@@ -9,7 +9,7 @@ I'm light.
 
 ___
 
-### Languages
+### 📚Languages
 
 <p align="center">
   <a>
@@ -60,7 +60,7 @@ ___
 
 ___
 
-### Tools
+### 🔧Tools
 
 <p align="center">
   <a>
@@ -92,7 +92,7 @@ ___
 
 ___
 
-### Links
+### 🔗Links
 
 <p align="center">
   <a href="https://twitter.com/light_planck" target="_blank">
