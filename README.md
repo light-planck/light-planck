@@ -35,9 +35,9 @@ ___
   </a>
 
 
-  <a>
+<!--   <a>
     <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=Node.js&style==style=for-the-badge&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
@@ -53,9 +53,9 @@ ___
     <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=Next.js&style==style=for-the-badge&logoColor=white" />
   </a>
 
-  <a>
+<!--   <a>
     <img src="https://img.shields.io/badge/-Express-000000.svg?logo=Express&style==style=for-the-badge&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ___
