@@ -52,10 +52,6 @@ ___
   <a>
     <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=Next.js&style==style=for-the-badge&logoColor=white" />
   </a>
-
-<!--   <a>
-    <img src="https://img.shields.io/badge/-Express-000000.svg?logo=Express&style==style=for-the-badge&logoColor=white" />
-  </a> -->
 </p>
 
 ___
@@ -107,3 +103,6 @@ ___
     <img src="https://img.shields.io/badge/AtCoder-000000.svg?&style=for-the-badge&logoColor=white" />
   </a>
 </p>
+
+### 気になる
+Go, Rust, Astro, Prisma, NestJS
