@@ -98,12 +98,12 @@ ___
   <a href="https://twitter.com/light_planck" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  
+  <a href="https://www.light-planck.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/BLOG-reen.svg?&style=for-the-badge&logoColor=white" />
+  </a>
 
   <a href="https://atcoder.jp/users/planck16" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder-000000.svg?&style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://zenn.dev/light_planck" target="_blank">
-    <img src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" />
   </a>
 </p>
