@@ -9,7 +9,7 @@ I'm light.
 
 ___
 
-### 📚Languages
+### 📚Skills
 
 <p align="center">
   <a>
