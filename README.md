@@ -7,7 +7,7 @@ I'm light.
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=light-planck&theme=tokyonight&show_icons=ture" />
 </p> -->
 
-___
+<!-- ___
 
 ### 📚Skills
 
@@ -32,7 +32,7 @@ ___
 
   <a>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=JavaScript&style==style=for-the-badge&logoColor=white" />
-  </a>
+  </a> -->
 
 
 <!--   <a>
@@ -40,7 +40,7 @@ ___
   </a> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=TypeScript&style==style=for-the-badge&logoColor=white" />
   </a>
@@ -52,10 +52,10 @@ ___
   <a>
     <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=Next.js&style==style=for-the-badge&logoColor=white" />
   </a>
-</p>
+</p> -->
 
-___
-
+<!-- ___ -->
+<!-- 
 ### 🔧Tools
 
 <p align="center">
@@ -84,11 +84,11 @@ ___
   <a>
     <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=Slack&style==style=for-the-badge&logoColor=white" />
   </a>
-</p>
+</p> -->
 
-___
+<!-- ___ -->
 
-### 🔗Links
+<!-- ### 🔗Links
 
 <p align="center">
   <a href="https://twitter.com/light_planck" target="_blank">
@@ -102,7 +102,7 @@ ___
   <a href="https://atcoder.jp/users/planck16" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder-000000.svg?&style=for-the-badge&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ___
 
