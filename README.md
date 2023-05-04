@@ -106,5 +106,6 @@ ___
 
 ___
 
-### 👀気になる
-Go, Rust, Astro, Prisma, NestJS
+### 👀気になる  
+Storybook, deno, Astro, Prisma  
+Go, Rust, NestJS  
