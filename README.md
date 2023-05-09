@@ -107,5 +107,5 @@ I'm light.
 ___
 
 ### 👀気になる  
-Storybook, deno, Astro, Prisma  
+Storybook, deno, Astro, Prisma, Supabase  
 Go, Rust, NestJS  
