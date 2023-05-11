@@ -1,6 +1,11 @@
 ### Hey guys! 👋
+I'm light. 
 
-I'm light.  
+___
+
+### 👀気になる  
+Storybook, deno, svelte, Astro, Prisma, Supabase  
+Go, Rust, NestJS  
 
 <!-- <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-planck&layout=compact&show_icons=true&theme=tokyonight" />
@@ -103,9 +108,3 @@ I'm light.
     <img src="https://img.shields.io/badge/AtCoder-000000.svg?&style=for-the-badge&logoColor=white" />
   </a>
 </p> -->
-
-___
-
-### 👀気になる  
-Storybook, deno, Astro, Prisma, Supabase  
-Go, Rust, NestJS  
