@@ -4,7 +4,7 @@ I'm light.
 ___
 
 ### 👀気になる  
-Storybook, deno, svelte, Astro, Prisma, Supabase  
+Storybook, deno, Svelte, Astro, Prisma, Supabase  
 Go, Rust, NestJS  
 
 <!-- <p align="left"> 
