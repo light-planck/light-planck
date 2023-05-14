@@ -3,7 +3,7 @@ I'm light.
 
 ___
 
-### 👀気になる  
+### 👀Interested in...  
 Storybook, Deno, Svelte, Astro, Prisma, Supabase  
 Go, Rust, NestJS  
 
