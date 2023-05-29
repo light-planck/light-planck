@@ -3,7 +3,7 @@ I'm light.
 
 ___
 
-### 👀Want to study...  
+### 👀I'd like to study...  
 Storybook, Deno, Svelte, Astro, Prisma, Supabase  
 Go, Rust, NestJS  
 
