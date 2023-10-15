@@ -5,5 +5,5 @@ I'm light.
 ___
 
 ### 👀I'd like to study...  
-Bun, Prisma  
+Bun, GraphQL, Prisma  
 Go, Rust
