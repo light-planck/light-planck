@@ -1,9 +1,18 @@
-### Hey guys! 👋
+## Things that interest me
 
-I'm light. 
+- Object-oriented programming
+- Software Architecture
+- Refactoring
 
-___
+## What I want to study
 
-### 👀I'd like to study...  
-Bun, GraphQL, Prisma  
-Go, Rust
+[![My Skills](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
+
+## What I use
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vite,vercel)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,docker)](https://skillicons.dev)
+
