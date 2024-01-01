@@ -4,10 +4,16 @@
 - Software Architecture
 - Refactoring
 
+## Likes
+
+- TypeScript
+- React
+- Next.js
+- Ruby
+- Ruby on Rails
+- C++
+
 ## What I want to study
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust)](https://skillicons.dev)
-
-## What I use
-
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,ruby,rails,cpp,py,docker)](https://skillicons.dev)
+- Go
+- Rust
