@@ -1,9 +1,9 @@
 # light planck
 
-## Things that interest me
+## What I'm interested in
 
-- Object-oriented programming
-- Software Architecture
+- Frontend
+- Software design
 - Refactoring
 
 ## Likes
