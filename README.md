@@ -1,3 +1,5 @@
+# light planck
+
 ## Things that interest me
 
 - Object-oriented programming
@@ -10,7 +12,6 @@
 - React
 - Next.js
 - Ruby
-- Ruby on Rails
 - C++
 
 ## What I want to study
