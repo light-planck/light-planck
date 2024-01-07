@@ -1,20 +1,20 @@
 # light planck
 
-## What I'm interested in
+## Interests
 
-- Frontend
+- Frontend development
 - Software design
 - Refactoring
 
-## Likes
+## Favorites
 
+- Bun
 - TypeScript
 - React
 - Next.js
 - Ruby
-- C++
 
-## What I want to study
+## Learning 
 
 - Go
 - Rust
