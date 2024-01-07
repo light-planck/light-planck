@@ -14,7 +14,7 @@
 - Next.js
 - Ruby
 
-## Learning 
+## Learning
 
 - Go
 - Rust
