@@ -13,8 +13,3 @@
 - React
 - Next.js
 - Ruby
-
-## Learning
-
-- Go
-- Rust
