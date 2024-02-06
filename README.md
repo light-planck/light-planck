@@ -5,11 +5,4 @@
 - Frontend development
 - Software design
 - Refactoring
-
-## Favorites
-
-- Bun
-- TypeScript
-- React
-- Next.js
-- Ruby
+- Test
