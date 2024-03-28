@@ -4,5 +4,3 @@
 
 - Frontend development
 - Software design
-- Refactoring
-- Testing
