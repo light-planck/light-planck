@@ -2,8 +2,8 @@
 
 ## Interests
 
-- Front-end web development
+- Front-end Web Development
   - React Server Components
-  - Web accessibility
-  - Performance tuning
-- Software design
+  - Web Accessibility
+  - Performance Tuning
+- Software Design
