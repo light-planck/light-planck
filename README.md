@@ -3,6 +3,6 @@
 ## Interests
 
 - Front-end Web Development
-  - React Server Components
+  - User Experience
   - Web Accessibility
 - Software Design
